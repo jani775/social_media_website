@@ -1,17 +1,18 @@
 .mycontent{
   padding-top: 100px;
-  border: 10px solid red;
+ border: 10px solid red;
 }
-  
+
 html,
 body {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background: #13057d;
+  background: #191063;
   margin: 0;
-} 
-  
+}
+
+
 #note {
   position: absolute;
   color: rgba(249,241,204,1);
